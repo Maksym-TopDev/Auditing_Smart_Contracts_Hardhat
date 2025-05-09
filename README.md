@@ -1,6 +1,6 @@
 # Auditing-Smart-Contracts
 
-Welcome to the `Auditing-Smart-Contracts` repository. This project is dedicated to ensuring the security and reliability of blockchain-based applications by performing comprehensive audits of smart contracts. The primary goal is to identify vulnerabilities, enforce best practices, and enhance trust and transparency in decentralized systems.
+Welcome to the `Auditing_Smart_Contracts_Hardhat` repository. This project is dedicated to ensuring the security and reliability of blockchain-based applications by performing comprehensive audits of smart contracts. The primary goal is to identify vulnerabilities, enforce best practices, and enhance trust and transparency in decentralized systems.
 
 ## Table of Contents
 
@@ -26,12 +26,12 @@ Each modification to this project undergoes a meticulous verification process an
 
 ## Getting Started
 
-To explore and interact with our `Auditing-Smart-Contracts` project, follow these steps:
+To explore and interact with our `Auditing_Smart_Contracts_Hardhat` project, follow these steps:
 
 1. Clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/Innovation-Web-3-0-Blockchain/Auditing-Smart-Contracts.git
+    git clone https://github.com/CloudDev777/Auditing_Smart_Contracts_Hardhat.git
     ```
 
 2. Ensure you have `node.js` and `npm` installed in your environment.
